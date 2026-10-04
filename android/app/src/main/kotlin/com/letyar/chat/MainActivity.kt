@@ -1,4 +1,4 @@
-package com.example.letyar_chat
+package com.letyar.chat
 
 import io.flutter.embedding.android.FlutterActivity
 
